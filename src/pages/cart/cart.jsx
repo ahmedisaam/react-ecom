@@ -28,7 +28,7 @@ export const Cart = () => {
     {totalAmount > 0 ? (
       <div className="checkout">
         <p>Subtotal: <span>${totalAmount}</span></p>
-        <button onClick={() => nav("/")}>Continue Shopping</button>
+        <button onClick={() => nav("/react-nav/")}>Continue Shopping</button>
         <button>Checkout</button>
       </div>)
     : (<h1>Your Cart is Empty</h1>)}
