@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ecom/static/css/main.19645f03.css",
-    "main.js": "/react-ecom/static/js/main.cef0cebf.js",
+    "main.js": "/react-ecom/static/js/main.22c983a7.js",
     "static/js/453.a77ef3f9.chunk.js": "/react-ecom/static/js/453.a77ef3f9.chunk.js",
     "static/media/2.png": "/react-ecom/static/media/2.5f080d9e47bf46ca3fce.png",
     "static/media/1.png": "/react-ecom/static/media/1.87f6c2f48f7e15ed845b.png",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/react-ecom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-ecom/index.html",
     "main.19645f03.css.map": "/react-ecom/static/css/main.19645f03.css.map",
-    "main.cef0cebf.js.map": "/react-ecom/static/js/main.cef0cebf.js.map",
+    "main.22c983a7.js.map": "/react-ecom/static/js/main.22c983a7.js.map",
     "453.a77ef3f9.chunk.js.map": "/react-ecom/static/js/453.a77ef3f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19645f03.css",
-    "static/js/main.cef0cebf.js"
+    "static/js/main.22c983a7.js"
   ]
 }
